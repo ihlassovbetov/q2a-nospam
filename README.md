@@ -1,7 +1,7 @@
 # q2a-nospam
 <b>Plugin Name:</b>  NoSpam <br>
 <b>Price:</b> 30 USD (contact me to buy) <br>
-<b>Plugin Description:</b> This is a premium-paid Q2A plugin that various methods to prevent spam registrations. It will filter 100% non-human registration.<br>
+<b>Plugin Description:</b> This is a premium-paid Q2A plugin that offers various methods to prevent spam registrations. It will filter 100% non-human registration.<br>
 <br>
 <ul class="first">
 	<b>Plugin Functionality:</b>
